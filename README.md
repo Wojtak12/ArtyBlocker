@@ -5,7 +5,7 @@ Automatically adds SPG players from your battle to blacklist.
 ## Installation
 
 Download mod from [here](https://github.com/Wojtak12/ArtyBlocker/releases/tag/Latest) and put it in your game's mods directory. For example:
-```python
+```
 C:\Games\World of Tanks\mods\1.17.0.1
 ```
 ## Feedback
