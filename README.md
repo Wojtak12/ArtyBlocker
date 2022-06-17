@@ -1,3 +1,5 @@
+![a38_t92_image_resized](https://user-images.githubusercontent.com/45635270/174277837-19cb80c9-32b7-4199-937d-c431c812738e.png)
+
 # Arty Blocker 1.0.0
 
 Automatically adds SPG players from your battle to blacklist.
@@ -6,7 +8,7 @@ Automatically adds SPG players from your battle to blacklist.
 
 Download mod from [here](https://github.com/Wojtak12/ArtyBlocker/releases/tag/Latest) and put it in your game's mods directory. For example:
 ```
-C:\Games\World of Tanks\mods\1.17.0.1
+C:\Games\World of Tanks\mods\1.17.0.1\
 ```
 ## Feedback
 Leave your feedback [here](https://github.com/Wojtak12/ArtyBlocker/issues).
